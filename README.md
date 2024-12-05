@@ -1,1 +1,2 @@
 # Prakrutik-Ayurvedic-Center
+#The Prakrutik Chikitsaly Center website offers a variety of natural health solutions rooted in ancient Ayurveda and holistic healing practices. The platform provides users with information on different treatment options,and more. It also features the ability to book consultations with Ayurvedic doctors for personalized guidance on achieving better health and well-being.
